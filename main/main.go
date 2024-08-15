@@ -90,5 +90,5 @@ func montyHallGameConcurrent(numGames int) {
 }
 
 func main() {
-	montyHallGameConcurrent(541881452) // 运行100,000次游戏来观察结果
+	montyHallGameConcurrent(541881452) // 填入你要算的次数，
 }
